@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Tally Type",
+    "imageSrc": "projects/project.png",
+    "description": "A Multiplayer typing game that allows the users to compete with other typing enthusiasts.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Rachitagnih/TallyType"
+  },
+  {
+    "title": "NoteSpell",
+    "imageSrc": "projects/project.png",
+    "description": "It is a minimalist notebook web app that allows users to securely access their personal dashboard.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Rachitagnih/NoteSpell"
+  },
+  {
+    "title": "Tech-Hacks",
+    "imageSrc": "projects/project.png",
+    "description": "Web App that provides the information about all the ongoing coding contests and hackathons.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Rachitagnih/TECH-HACKS"
+  }
+]

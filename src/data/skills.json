@@ -1,0 +1,43 @@
+[
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.svg.webp"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.svg.webp"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.jpg"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.svg"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.webp"
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+      "title": "LeetCode",
+      "imageSrc": "skills/leetcode.png",
+      "src" : "https://leetcode.com/rachitag246/"
+    },
+    {
+      "title": "Codeforces",
+      "imageSrc": "skills/codeforces.png",
+      "src" : "https://codeforces.com/profile/rachitag246"
+    },
+    {
+      "title": "CodeChef",
+      "imageSrc": "skills/codechef.png",
+      "src":"https://www.codechef.com/users/rachitag33"
+    },
+    {
+      "title": "Hackerrank",
+      "imageSrc": "skills/hackerrank.jpeg",
+      "src":"https://www.hackerrank.com/profile/2001640100207_2A"
+    }
+  ]
+  
